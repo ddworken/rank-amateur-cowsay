@@ -1,0 +1,21 @@
+##
+## Husky
+## Art from http://www.chris.com/ascii/joan/www.geocities.com/SoHo/7373/petsdogs.html
+## Added by david@daviddworken.com
+##
+$the_cow = <<EOC;
+   $thoughts
+    $thoughts
+
+      /\\_..._/\\
+      |/ \\_/ \\|
+      | o.-.o |
+      \\ ( O ) /
+      /'--U--'\\
+      |  .:.  | /\\
+      | /:;:\\ |` /
+      | |:;:| |-'
+     /  |'-'|  \\
+      `""`   `""`
+
+EOC
